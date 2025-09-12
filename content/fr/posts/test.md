@@ -1,8 +1,8 @@
 ---
-author: ["Test"]
-title: "Test"
+author: ["auteur"]
+title: "Titre"
 date: "2019-03-10"
-description: "Test dec"
+description: "Description"
 summary: " test sum Sample article showcasing basic code syntax and formatting for HTML elements."
 tags: ["test", "markdown", "syntax", "code", "gist"]
 categories: ["themes", "syntax"]
