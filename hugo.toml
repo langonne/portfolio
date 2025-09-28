@@ -20,11 +20,13 @@ pagerSize = 5
 
 [languages.en]
 languageName = ":uk:"
+languageCode = "en-US"
 weight = 1
 contentDir = 'content/en'
 
 [languages.fr]
 languageName = ":fr:"
+languageCode = "fr-FR"
 weight = 2
 contentDir = 'content/fr'
 
