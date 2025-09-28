@@ -48,7 +48,7 @@ title = "Léo Angonnet"
 # imageTitle = "ProfileMode image"
 # imageWidth = 120
 # imageHeight = 120
-subtitle = "IT engineering student at [<u>UTBM</u>](https://utbm.fr), focused on networks, virtualization & security | Dev & self-hosting enthusiast"
+subtitle = "CS engineering student at [<u>UTBM</u>](https://utbm.fr), focused on networks, virtualization & security | Dev & self-hosting enthusiast"
 [languages.fr.params.profileMode]
 enabled = true
 title = "Léo Angonnet"
@@ -114,6 +114,11 @@ url = "https://github.com/langonne"
 name = "linkedin"
 title = "Linkedin profile"
 url = "https://www.linkedin.com/in/l%C3%A9o-angonnet/"
+
+[[params.socialIcons]]
+name = "email"
+title = "Send mail"
+url = "mailto:leo.angonnet@ik.me"
 
 # [params.editPost]
 # URL = "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
