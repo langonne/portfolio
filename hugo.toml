@@ -31,7 +31,7 @@ contentDir = 'content/fr'
 [languages.en.taxonomies]
 category = "categories"
 tag = "tags"
-series = "series"
+search = "search"
 [languages.fr.taxonomies]
 category = "categories"
 tag = "tags"
