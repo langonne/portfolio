@@ -48,11 +48,11 @@ title = "Léo Angonnet"
 # imageTitle = "ProfileMode image"
 # imageWidth = 120
 # imageHeight = 120
-subtitle = "CS engineering student at [<u>UTBM</u>](https://utbm.fr), focused on networks, virtualization & security | Dev & self-hosting enthusiast"
+subtitle = "CS engineering student at [<u>UTBM</u>](https://utbm.fr), focused on infrastructure, networks & security | Dev & self-hosting enthusiast"
 [languages.fr.params.profileMode]
 enabled = true
 title = "Léo Angonnet"
-subtitle = "Étudiant en informatique à l'[<u>UTBM</u>](https://utbm.fr), spécialisé en réseaux, virtualisation et sécurité | Ayant un intérêt pour le développement et l'auto-hébergement"
+subtitle = "Étudiant en informatique à l'[<u>UTBM</u>](https://utbm.fr), spécialisé en infrastructure, réseaux et sécurité | Ayant un intérêt pour le développement et l'auto-hébergement"
 
 [[params.profileMode.buttons]]
 name = "Projects"
